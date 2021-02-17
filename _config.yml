@@ -82,3 +82,4 @@ exclude:
   - netlify.toml
   - stackbit-build.sh
   - stackbit-pull.js
+domain: 'https://pleasant-turmeric-d6dbd.netlify.app'
